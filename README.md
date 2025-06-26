@@ -114,6 +114,7 @@ flutter build ios
 ```
 
 ## 📱 Screenshots
+![image alt](https://github.com/am5u/SpaceApp_UI/blob/66184fb82ebae0bcc43c302a2ebb18dad9d4040b/ui.png)
 
 The app features:
 - Welcome screen with space-themed graphics
