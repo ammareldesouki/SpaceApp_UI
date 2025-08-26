@@ -2,6 +2,12 @@
 
 A beautiful and interactive Flutter application that takes you on a journey through our solar system. Explore planets, learn fascinating facts, and discover the wonders of space with this immersive mobile app.
 
+
+
+## 📱 Screenshots
+![image alt](https://github.com/am5u/SpaceApp_UI/blob/66184fb82ebae0bcc43c302a2ebb18dad9d4040b/ui.png)
+
+
 ## 🚀 Features
 
 ### ✨ Interactive Planet Exploration
@@ -112,9 +118,6 @@ flutter build apk
 ```bash
 flutter build ios
 ```
-
-## 📱 Screenshots
-![image alt](https://github.com/am5u/SpaceApp_UI/blob/66184fb82ebae0bcc43c302a2ebb18dad9d4040b/ui.png)
 
 The app features:
 - Welcome screen with space-themed graphics
